@@ -7,7 +7,6 @@ Controlador para pagar con PayPal
 
 TODO
 
-```
 
 ## Authors
 
